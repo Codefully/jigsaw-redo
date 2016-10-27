@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Contact Us"
+permalink: /contact-us/
+---
+
 Contact Us
 
 If you’d like any more information please contact us at:

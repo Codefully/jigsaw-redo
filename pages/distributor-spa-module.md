@@ -1,7 +1,10 @@
+---
+layout: page
+title: "Distributor SPA Analytics"
+permalink: /distributor-spa-analytics/
+---
+
 Distributor > SPA Analytics
-
-
-
 
 Our SPA Control Module enables a distributor to monitor the performance of their SPA contracts and the effectiveness of the pricing strategy against the sales performance of the account.  Distributors are able to review the revenue and profitability generated for each of their manufacturer’s SPA contracts, as well as focus on areas of inactivity and price erosion typically found within SPA contracts, including:
 
@@ -9,9 +12,6 @@ Our SPA Control Module enables a distributor to monitor the performance of their
 2. Little to no strategic pricing in place for high volume and/or low volume items
 3. Little to no differentiation between large and small customers
 4. No customer segmentation
-
-
-
 
 Jigsaws’ SPA Control Module has generated gross margin improvements ranging from 300 – 600 basis points (3 – 6%) on SPA sales.
 

@@ -9,14 +9,12 @@
       <main class="mdl-layout__content">
         <section class="section--center">
           <div class="mdl-grid">
-            <div class="mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet">
-              {% include card1.html %}
-            </div>
-            <div class="mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet">
-              {% include card2.html %}
-            </div>
             <div class="mdl-cell mdl-cell--12-col">
-              {% include card3.html %}
+              <div class="demo-card-wide mdl-card">
+                <div class="mdl-card__supporting-text">
+                  {{ content }}
+                </div>
+              </div>
             </div>
           </div>
         </section>

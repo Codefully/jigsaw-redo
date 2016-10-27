@@ -1,4 +1,8 @@
-
+---
+layout: page
+title: "Distributor Price Margin"
+permalink: /distributor-price-margin/
+---
 
 Distributors > Price Matrix Management
 
