@@ -1,3 +1,5 @@
+---
+---
 /**
  * Copyright 2015 Google Inc. All Rights Reserved.
  *
@@ -86,12 +88,12 @@ html, body {
 .mdl-card-1 > .mdl-card__title {
   height: 176px;
   color: #fff;
-  background: url('/assets/card1.jpg') center / 200%;
+  background: url("{{ '/assets/card1.jpg' | prepend:site.baseurl }}") center / 200%;
 }
 .mdl-card-2 > .mdl-card__title {
   height: 176px;
   color: #fff;
-  background: url('/assets/card2.jpg') center / 200%;
+  background: url("{{ '/assets/card2.jpg' | prepend:site.baseurl }}") center / 200%;
 }
 .mdl-card-3 {
   min-height: inherit;
