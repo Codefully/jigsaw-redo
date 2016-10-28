@@ -88,12 +88,12 @@ html, body {
 .mdl-card-1 > .mdl-card__title {
   height: 176px;
   color: #fff;
-  background: url("{{ '/assets/card1.jpg' | prepend:site.baseurl }}") center / 200%;
+  background: url("{{ '/assets/card1c.jpg' | prepend:site.baseurl }}") center / 100%;
 }
 .mdl-card-2 > .mdl-card__title {
   height: 176px;
   color: #fff;
-  background: url("{{ '/assets/card2.jpg' | prepend:site.baseurl }}") center / 200%;
+  background: url("{{ '/assets/card2d.jpg' | prepend:site.baseurl }}") center / 100%;
 }
 .mdl-card-3 {
   min-height: inherit;
