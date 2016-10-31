@@ -116,12 +116,12 @@ html, body {
 .mdl-card-1 {
   height: 500px;
   color: #fff;
-  background: url("{{ '/assets/card1d.jpg' | prepend:site.baseurl }}") center / 100%;
+  background: url("{{ '/assets/card1d.jpg' | prepend:site.baseurl }}") center / cover;
 }
 .mdl-card-2 {
   height: 500px;
   color: #fff;
-  background: url("{{ '/assets/card2e.jpg' | prepend:site.baseurl }}") center / 100%;
+  background: url("{{ '/assets/card2e.jpg' | prepend:site.baseurl }}") center / cover;
 }
 .mdl-card-3 {
   height: 500px;
