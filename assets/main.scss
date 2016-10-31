@@ -25,11 +25,12 @@ html, body {
   font-family: 'Roboto', 'Helvetica', sans-serif;
   margin: 0;
   padding: 0;
-  background: #000;
+  background: #001020;
 }
 .mdl-layout__header {
-  background: #000;
+  background: none;
   padding: 60px;
+  border-bottom: 10px solid #000;
 }
 .mdl-layout__header-row {
   height: auto;
@@ -88,7 +89,6 @@ html, body {
 }
 .mdl-card {
   padding: 50px;
-  border-bottom: 10px solid #000;
   border-radius: 0;
   .mdl-card__title-text {
     font-size: 2.5em;
@@ -113,24 +113,27 @@ html, body {
     }
   }
 }
-.mdl-card-1 {
-  height: 500px;
-  color: #fff;
-  background: url("{{ '/assets/card1d.jpg' | prepend:site.baseurl }}") center / cover;
-}
+.mdl-card-1,
 .mdl-card-2 {
   height: 500px;
   color: #fff;
+  border-bottom: 10px solid #000;
+}
+.mdl-card-1 {
+  background: url("{{ '/assets/card1d.jpg' | prepend:site.baseurl }}") center / cover;
+}
+.mdl-card-2 {
   background: url("{{ '/assets/card2e.jpg' | prepend:site.baseurl }}") center / cover;
 }
 .mdl-card-3 {
-  height: 500px;
-  background: #000;
+  background: none;
 }
 .mdl-card-3 h2 {
   color: #FFF;
   line-height: 1.5;
   margin: 0 10px;
+  max-width: 900px;
+  font-size: 2em;
 }
 .demo-card-wide > .mdl-card__menu {
   color: #fff;
