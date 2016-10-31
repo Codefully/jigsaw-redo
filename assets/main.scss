@@ -25,10 +25,11 @@ html, body {
   font-family: 'Roboto', 'Helvetica', sans-serif;
   margin: 0;
   padding: 0;
+  background: #000;
 }
 .mdl-layout__header {
-  background: #FFF !important;
-  padding: 15px;
+  background: #000;
+  padding: 60px;
 }
 .mdl-layout__header-row {
   height: auto;
@@ -38,8 +39,8 @@ html, body {
 .mdl-demo .mdl-layout__header-row {
   padding-left: 40px;
 }
-.mdl-layout__header-row .mdl-navigation__link {
-  color: #333;
+.mdl-layout__header-row .mdl-button {
+  color: #FFF;
 }
 .mdl-demo .mdl-layout.is-small-screen .mdl-layout__header-row h3 {
   font-size: inherit;
@@ -77,7 +78,7 @@ html, body {
   padding-top: 48px;
 }
 .mdl-demo .mdl-card {
-  height: auto;
+  // height: auto;
   display: flex;
   flex-direction: column;
   width: auto;
@@ -85,21 +86,51 @@ html, body {
 .mdl-demo .mdl-card > * {
   height: auto;
 }
-.mdl-card-1 > .mdl-card__title {
-  height: 176px;
-  color: #fff;
-  background: url("{{ '/assets/card1c.jpg' | prepend:site.baseurl }}") center / 100%;
+.mdl-card {
+  padding: 50px;
+  border-bottom: 10px solid #000;
+  border-radius: 0;
+  .mdl-card__title-text {
+    font-size: 2.5em;
+    display: inline-block;
+    background: #000;
+    color: #FFF;
+    padding: 10px 30px;
+  }
+  .mdl-card__supporting-text {
+    background: #000;
+    padding: 10px 30px !important;
+    max-width: 600px;
+    line-height: 2;
+  }
+  .mdl-card__actions {
+    .mdl-button {
+      padding: 0 30px !important;
+      background: #000 !important;
+      &:hover {
+        color: #FFF;
+      }
+    }
+  }
 }
-.mdl-card-2 > .mdl-card__title {
-  height: 176px;
+.mdl-card-1 {
+  height: 500px;
   color: #fff;
-  background: url("{{ '/assets/card2d.jpg' | prepend:site.baseurl }}") center / 100%;
+  background: url("{{ '/assets/card1d.jpg' | prepend:site.baseurl }}") center / 100%;
+}
+.mdl-card-2 {
+  height: 500px;
+  color: #fff;
+  background: url("{{ '/assets/card2e.jpg' | prepend:site.baseurl }}") center / 100%;
 }
 .mdl-card-3 {
-  min-height: inherit;
+  height: 500px;
+  background: #000;
 }
-.mdl-card-3 h4 {
-  margin: 0;
+.mdl-card-3 h2 {
+  color: #FFF;
+  line-height: 1.5;
+  margin: 0 10px;
 }
 .demo-card-wide > .mdl-card__menu {
   color: #fff;
@@ -248,4 +279,8 @@ html, body {
 }
 .mdl-demo .mdl-menu__container {
   z-index: 99;
+}
+footer {
+  padding: 70px;
+  color: #FFF;
 }

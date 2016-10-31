@@ -3,23 +3,13 @@
   <head>
     {% include head.html %}
   </head>
-  <body class="mdl-demo mdl-color--grey-100 mdl-color-text--grey-700 mdl-base">
+  <body class="mdl-demo mdl-base">
     <div class="mdl-layout mdl-js-layout">
       {% include header.html %}
       <main class="mdl-layout__content">
-        <section class="section--center">
-          <div class="mdl-grid">
-            <div class="mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet">
-              {% include card1.html %}
-            </div>
-            <div class="mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet">
-              {% include card2.html %}
-            </div>
-            <div class="mdl-cell mdl-cell--12-col">
-              {% include card3.html %}
-            </div>
-          </div>
-        </section>
+        {% include card1.html %}
+        {% include card2.html %}
+        {% include card3.html %}
       </main>
       {% include footer.html %}
     </div>
