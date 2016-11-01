@@ -1,28 +1,32 @@
 
 
 <header>
-  <a class="logo" href='{{ "/" | prepend: site.baseurl }}'>
-    <img src='{{ "/assets/jigsaw-logo.png" | prepend:site.baseurl }}' alt="Jigsaw Systems Inc">
-  </a>
-  <h2>
-    Jigsaw Systems Inc specializes on data process improvement and analytics,
-    focusing on manufacturers and distributors the Elecitrical Engineering industry.
-  </h2>
-  <nav>
-    <a href='{{ "/" | prepend: site.baseurl }}'>Home</a>
-    <a id="menu-suppliers">Suppliers</a>
-    <div for="menu-suppliers">
-      <a href='{{ "/manufacturer-spa/" | prepend: site.baseurl }}'>SPA Management</a>
-      <a href='{{ "/manufacturer-pos/" | prepend: site.baseurl }}'>Point of Sale</a>
-      <a href='{{ "/manufacturer-inventory/" | prepend: site.baseurl }}'>Vendor Managed Inventory</a>
+  <div>
+    <a class="logo" href='{{ "/" | prepend: site.baseurl }}'>
+      <img src='{{ "/assets/jigsaw-logo.png" | prepend:site.baseurl }}' alt="Jigsaw Systems Inc">
+    </a>
+    <div class="intro">
+      <h2>
+        Jigsaw Systems Inc specializes on data process improvement and analytics,
+        focusing on manufacturers and distributors the Elecitrical Engineering industry.
+      </h2>
+      <nav>
+        <a href='{{ "/" | prepend: site.baseurl }}'>Home</a>
+        <a id="menu-suppliers">Suppliers</a>
+        <div for="menu-suppliers">
+          <a href='{{ "/manufacturer-spa/" | prepend: site.baseurl }}'>SPA Management</a>
+          <a href='{{ "/manufacturer-pos/" | prepend: site.baseurl }}'>Point of Sale</a>
+          <a href='{{ "/manufacturer-inventory/" | prepend: site.baseurl }}'>Vendor Managed Inventory</a>
+        </div>
+        <a id="menu-distributors">Distributors</a>
+        <div for="menu-distributors">
+          <a href='{{ "/distributor-price-margin/" | prepend: site.baseurl }}'>Price matrix management</a>
+          <a href='{{ "/distributor-spa-analytics/" | prepend: site.baseurl }}'>SPA ultilization</a>
+          <a href='{{ "/distributor-inventory/" | prepend: site.baseurl }}'>Customer engagement</a>
+        </div>
+        <a href='{{ "/about" | prepend: site.baseurl }}'>Who We Are</a>
+        <a href='{{ "/contact-us" | prepend: site.baseurl }}'>Contact Us</a>
+      </nav>
     </div>
-    <a id="menu-distributors">Distributors</a>
-    <div for="menu-distributors">
-      <a href='{{ "/distributor-price-margin/" | prepend: site.baseurl }}'>Price matrix management</a>
-      <a href='{{ "/distributor-spa-analytics/" | prepend: site.baseurl }}'>SPA ultilization</a>
-      <a href='{{ "/distributor-inventory/" | prepend: site.baseurl }}'>Customer engagement</a>
-    </div>
-    <a href='{{ "/about" | prepend: site.baseurl }}'>Who We Are</a>
-    <a href='{{ "/contact-us" | prepend: site.baseurl }}'>Contact Us</a>
-  </nav>
+  </div>
 </header>
