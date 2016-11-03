@@ -31,37 +31,41 @@ a {
 header {
   padding: 10px 0 5px;
   background: url("{{ '/assets/header-1.jpg' | prepend:site.baseurl }}") 50% 100% no-repeat;
+  overflow: hidden;
   > div {
     max-width: 1200px;
     margin: 0 auto;
     background: rgba(#FFF, .9);
     padding: 50px;
+    overflow: hidden;
   }
   .logo {
     position: relative;
     display: inline-block;
     margin-right: 100px;
     vertical-align: top;
+    float: left;
     img {
       position: relative;
       z-index: 2;
     }
   }
   .intro{
-    position: relative;
-    display: inline-block;
+    margin-top: 80px;
     h2 {
       position: relative;
       font-weight: 300;
       font-size: 1.7em;
-      max-width: 800px;
+      max-width: 700px;
       margin: 0 auto;
       line-height: 1.4;
     }
   }
   nav {
+    position: relative;
     display: inline-block;
-    margin-top: 50px;
+    // margin-top: -50px;
+    float: right;
     a {
       color: $text;
       font-weight: 400;
