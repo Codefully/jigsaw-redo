@@ -4,7 +4,8 @@ permalink: "/distributor-spa-analytics/"
 layout: page
 ---
 
-Distributor > SPA Analytics
+### Distributor
+# SPA Analytics
 
 Our SPA Control Module enables a distributor to monitor the performance of their SPA contracts and the effectiveness of the pricing strategy against the sales performance of the account.  Distributors are able to review the revenue and profitability generated for each of their manufacturer’s SPA contracts, as well as focus on areas of inactivity and price erosion typically found within SPA contracts, including:
 

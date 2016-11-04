@@ -4,7 +4,8 @@ permalink: "/manufacturer-inventory/"
 layout: page
 ---
 
-Manufacturer >  Vendor Managed Inventory
+### Manufacturer
+# Vendor Managed Inventory
 
 Jigsaw’s Inventory Gap Analysis/VMI system (Stock Advantage), has been designed to work in tandem with a manufacturer’s current order management platform, goes well beyond the use of daily sales to generate stocking recommendations. 
 
