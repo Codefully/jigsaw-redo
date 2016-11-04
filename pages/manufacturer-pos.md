@@ -5,6 +5,7 @@ layout: page
 ---
 
 ### Manufacturer
+
 # Point of Sale
 
 Jigsaw's Point-of-Sale Module makes capturing and examining sales transaction information from your distribution channel easy to accomplish.  Our web-based module allows distributor users to upload their own data via pre-programmed NAED or NEDA data templates, or via a Point-of-Sale format that is unique to your organization.  
