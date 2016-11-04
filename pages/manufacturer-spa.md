@@ -1,7 +1,7 @@
 ---
+title: Manufacturer SPA
+permalink: "/manufacturer-spa/"
 layout: page
-title: "Manufacturer SPA"
-permalink: /manufacturer-spa/
 ---
 
 Manufacturer > SPA

@@ -1,5 +1,6 @@
 ---
+title: Suppliers
+permalink: "/suppliers/"
 layout: page
-title: "Suppliers"
-permalink: /suppliers/
 ---
+

@@ -1,7 +1,7 @@
 ---
+title: Vendor Managed Inventory
+permalink: "/manufacturer-inventory/"
 layout: page
-title: "Vendor Managed Inventory"
-permalink: /manufacturer-inventory/
 ---
 
 Manufacturer >  Vendor Managed Inventory

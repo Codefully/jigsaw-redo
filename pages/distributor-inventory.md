@@ -1,7 +1,7 @@
 ---
+title: Distributor Inventory
+permalink: "/distributor-inventory/"
 layout: page
-title: "Distributor Inventory"
-permalink: /distributor-inventory/
 ---
 
 Distributor > Stock Advantage (Inventory)

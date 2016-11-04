@@ -1,5 +1,6 @@
 ---
+title: FAQ
+permalink: "/faq/"
 layout: page
-title: "FAQ"
-permalink: /faq/
 ---
+

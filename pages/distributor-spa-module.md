@@ -1,7 +1,7 @@
 ---
+title: Distributor SPA Analytics
+permalink: "/distributor-spa-analytics/"
 layout: page
-title: "Distributor SPA Analytics"
-permalink: /distributor-spa-analytics/
 ---
 
 Distributor > SPA Analytics
