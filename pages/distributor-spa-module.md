@@ -15,6 +15,8 @@ Our SPA Control Module enables a distributor to monitor the performance of their
 3. Little to no differentiation between large and small customers
 4. No customer segmentation
 
+![distributor-spa.jpg](/uploads/distributor-spa.jpg)
+
 Jigsaws’ SPA Control Module has generated gross margin improvements ranging from 300 – 600 basis points (3 – 6%) on SPA sales.
 
 As a first or initial step in more effectively managing your company’s profitability, Jigsaw offers its SPA analytics service.
