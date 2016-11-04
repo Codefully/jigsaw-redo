@@ -5,6 +5,7 @@ layout: page
 ---
 
 ### Distributor
+
 # Price Matrix Management
 
 Jigsaw Systems offers a three-phased pricing analytics service  that we call Market Edge, encompassing both SPA contracts, as well as every day, thru-stock business (stock and non-stock).
