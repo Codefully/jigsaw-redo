@@ -12,6 +12,7 @@ Jigsaw Systems offers a three-phased pricing analytics service  that we call Mar
 
 Jigsaw Systems conducts a thorough pricing analysis of your company’s thru-stock business.  By thoroughly analyzing a customer’s annual volume against their product buying patterns; Jigsaw is able to identify those products that are truly price sensitive; as well as model, test and recommend an effective pricing architecture, improving a company’s thru-stock profitability (including product sold via SPA contracts) from 2.5 to 5%.
 
+![distributor-pricing.jpg](/uploads/distributor-pricing.jpg)
 
 Our Profit Builder Module enables a distributor to quickly analyze the effectiveness of their current pricing matrix to develop, monitor and implement a consistent, repeatable pricing strategy based each customer’s specific purchasing profile.  The platform provides insights on current business dynamics to identify where price needs to be competitive and where opportunities for margin improvement exist. The resulting pricing matrix takes into account several business dynamics, including
 
