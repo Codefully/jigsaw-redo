@@ -10,6 +10,8 @@ layout: page
 
 Jigsaw’s Inventory Gap Analysis/VMI system (Stock Advantage), has been designed to work in tandem with a manufacturer’s current order management platform, goes well beyond the use of daily sales to generate stocking recommendations. 
 
+![manufacturer-inventory.jpg](/uploads/manufacturer-inventory.jpg)
+
 Using a series of mathematical models that have been successfully implemented by a world-class manufacturer for the past several years, Jigsaw’s Inventory Management system builds a unique profile and generates an individual stocking recommendation for each of your distributors’ locations, taking into account such variables as:
  
 1. Customer demand &amp; demographics
