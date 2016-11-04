@@ -21,8 +21,9 @@ Our Profit Builder Module enables a distributor to quickly analyze the effective
 3. Total number of transactions for each SKU per customer
 4. Margin gain desired per customer per SKU
 5. SKU sales history and customer sensitivity to price
+
+![distributor-matrix-order-velocity.jpg](/uploads/distributor-matrix-order-velocity.jpg)
  
 Jigsaws’ Profit Builder Module has generated gross margin improvements ranging from 200 – 400 basis points (2 – 4%) on thru stock sales.
-
 
 Though the price analysis web tool is stand alone, it also works in conjunction with our SPA analytics service, combined the integrated measurement platform enables a distributor to quickly and accurately measure the resultant profitability improvements against the SPA contract and thru-stock pricing baselines that existed before the new pricing models were adopted.
