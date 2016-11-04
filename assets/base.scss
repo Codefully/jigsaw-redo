@@ -134,6 +134,16 @@ main {
   }
 }
 
+.page {
+  main.content {
+    img {
+      max-width: 100%;
+      display: block;
+      margin: 50px auto;
+    }
+  }
+}
+
 footer {
   max-width: 1200px;
   margin: 0 auto;
