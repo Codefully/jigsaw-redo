@@ -4,7 +4,7 @@ permalink: "/contact-us/"
 layout: page
 ---
 
-Contact Us
+### Contact Us
 
 If you’d like any more information please contact us at:
 
