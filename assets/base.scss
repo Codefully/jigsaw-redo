@@ -3,6 +3,7 @@
 
 @import url('//fonts.googleapis.com/css?family=Roboto:100,300,400,900');
 @import 'nav';
+@import 'bootstrap/bootstrap';
 
 // colors
 $green: #8DC542;
@@ -11,6 +12,19 @@ $lightgray: rgba($gray, .5);
 $blue: #0F8ACB;
 $orange: #F15B2B;
 $text: #404040;
+
+
+.color-blue {
+  color: $blue;
+}
+
+.color-green {
+  color: $green;
+}
+
+.color-orange {
+  color: $orange;
+}
 
 
 body {
