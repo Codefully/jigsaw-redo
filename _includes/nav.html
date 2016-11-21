@@ -1,27 +1,34 @@
 
 
-<nav>
-  <div class="nav-mobile">
-    <a id="nav-toggle" href="#!"><span></span></a>
- </div>
- <ul class="nav-list">
-  <li><a href='{{ "/" | prepend: site.baseurl }}'>Home</a></li>
-  <li>
-    <a id="menu-distributors">Distributors</a>
-    <ul class="nav-dropdown">
-      <li><a href='{{ "/distributor-price-margin/" | prepend: site.baseurl }}'>Price Matrix Management</a></li>
-      <li><a href='{{ "/distributor-spa-analytics/" | prepend: site.baseurl }}'>SPA Utilization</a></li>
-      <li><a href='{{ "/distributor-inventory/" | prepend: site.baseurl }}'>Customer Engagement</a></li>
+<nav class="navbar navbar-light">
+  <button class="navbar-toggler hidden-lg-up float-xs-right" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar" aria-controls="exCollapsingNavbar" aria-expanded="false" aria-label="Toggle navigation"></button>
+  <div class="collapse navbar-toggleable-md" id="exCollapsingNavbar">
+    <ul class="nav navbar-nav float-xs-right">
+      <li class="nav-item">
+        <a class="nav-link" href='{{ "/" | prepend: site.baseurl }}'>Home</a>
+      </li>
+      <li class="nav-item dropdown">
+        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" id="menu-distributors" aria-haspopup="true" aria-expanded="false">Distributors</a>
+        <div class="dropdown-menu">
+          <a class="dropdown-item" href='{{ "/distributor-price-margin/" | prepend: site.baseurl }}'>Price Matrix Management</a>
+          <a class="dropdown-item" href='{{ "/distributor-spa-analytics/" | prepend: site.baseurl }}'>SPA Utilization</a>
+          <a class="dropdown-item" href='{{ "/distributor-inventory/" | prepend: site.baseurl }}'>Customer Engagement</a>
+        </div>
+      </li>
+      <li class="nav-item dropdown">
+        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" id="menu-suppliers" aria-haspopup="true" aria-expanded="false">Manufacturers</a>
+        <div class="dropdown-menu">
+          <a class="dropdown-item" href='{{ "/manufacturer-spa/" | prepend: site.baseurl }}'>SPA Management</a>
+          <a class="dropdown-item" href='{{ "/manufacturer-pos/" | prepend: site.baseurl }}'>Point of Sale</a>
+          <a class="dropdown-item" href='{{ "/manufacturer-inventory/" | prepend: site.baseurl }}'>Vendor Managed Inventory</a>
+        </div>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href='{{ "/about" | prepend: site.baseurl }}'>Who We Are</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href='{{ "/contact-us" | prepend: site.baseurl }}'>Contact Us</a>
+      </li>
     </ul>
-  </li>
-  <li>
-    <a id="menu-suppliers">Manufacturers</a>
-    <ul class="nav-dropdown">
-      <li><a href='{{ "/manufacturer-spa/" | prepend: site.baseurl }}'>SPA Management</a></li>
-      <li><a href='{{ "/manufacturer-pos/" | prepend: site.baseurl }}'>Point of Sale</a></li>
-      <li><a href='{{ "/manufacturer-inventory/" | prepend: site.baseurl }}'>Vendor Managed Inventory</a></li>
-    </ul>
-  </li>
-  <li><a href='{{ "/about" | prepend: site.baseurl }}'>Who We Are</a></li>
-  <li><a href='{{ "/contact-us" | prepend: site.baseurl }}'>Contact Us</a></li>
+  </div>
 </nav>

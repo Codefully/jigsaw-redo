@@ -2,7 +2,7 @@
 ---
 
 @import url('//fonts.googleapis.com/css?family=Roboto:100,300,400,900');
-@import 'nav';
+// @import 'nav';
 @import 'bootstrap/bootstrap';
 
 // colors
@@ -26,13 +26,10 @@ $text: #404040;
   color: $orange;
 }
 
-
 body {
   font-family: 'Roboto', sans-serif;
   line-height: 1.5;
   background: #EEE;
-  margin: 0;
-  box-sizing: border-box;
   color: $text;
 }
 
@@ -44,10 +41,22 @@ a {
   }
 }
 
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.3rem;
+}
+
 header {
   padding: 10px 0 5px;
   background: url("{{ '/assets/header-1.jpg' | prepend:site.baseurl }}") 50% 100% no-repeat;
+  background-size: cover;
   overflow: hidden;
+  .logo img {
+    max-width: 100%;
+  }
   > div {
     max-width: 1200px;
     margin: 0 auto;
@@ -55,27 +64,11 @@ header {
     padding: 50px;
     overflow: hidden;
   }
-  .logo {
-    position: relative;
-    display: inline-block;
-    margin-right: 100px;
-    vertical-align: top;
-    float: left;
-    img {
-      position: relative;
-      z-index: 2;
-    }
-  }
   .intro{
-    margin-top: 80px;
-    h2 {
-      position: relative;
-      font-weight: 300;
-      font-size: 1.7em;
-      max-width: 700px;
-      margin: 0 auto;
-      line-height: 1.4;
-    }
+    font-weight: 300;
+    font-size: 1.5rem;
+    max-width: 700px;
+    line-height: 1.4;
   }
 //   nav {
 //     position: relative;
@@ -97,14 +90,15 @@ header {
 
 main {
   background: #FFF;
-  max-width: 1200px;
-  padding: 50px 50px 200px;
-  margin: 0 auto;
-  overflow: hidden;
+  // max-width: 1200px;
+  // padding: 50px 50px 200px;
+  // margin: 0 auto;
+  // overflow: hidden;
   .card {
-    width: 50%;
-    float: left;
-    display: inline-block;
+    border: 0;
+    // width: 50%;
+    // float: left;
+    // display: inline-block;
     .icon {
       width: 160px;
       display: block;
@@ -119,10 +113,10 @@ main {
     margin: 0 15px;
   }
   .card-title {
-    font-size: 2.3em;
+    font-size: 2.3rem;
     font-weight: 100;
     margin-bottom: 20px;
-    margin-top: 0;
+    margin-top: 20px;
     text-align: center;
   }
   .list-links {
@@ -160,9 +154,12 @@ main {
 }
 
 footer {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 50px;
-  background: #FFF;
-  text-align: center;
+  .container {
+    background: #FFF;
+    padding: 150px 0 50px;
+  }
+  // max-width: 1200px;
+  // margin: 0 auto;
+  // padding: 50px;
+  // text-align: center;
 }
