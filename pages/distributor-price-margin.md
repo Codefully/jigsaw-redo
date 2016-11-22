@@ -29,7 +29,7 @@ Though the price analysis web tool is stand alone, it also works in conjunction 
   </div>
 </div>
 
-<h2 class="color-orange">Key metrics</h2>
+<h2 class="color-orange mt-3">Key metrics</h2>
 
 - A customer’s total annualized purchases
 - Total number of each SKU purchased by each customer

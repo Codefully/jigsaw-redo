@@ -4,8 +4,6 @@ permalink: "/distributor-inventory/"
 layout: page
 ---
 
-### Distributor
-
 # Stock Advantage (Inventory)
 
 Our Stock Advantage Module enables a distributor to monitor the behaviors and operational costs of their stock ordering process. The system identifies where distributors are incurring unnecessary operational costs due to the behaviors encouraged within their own stock replenishment platforms.  In addition this module can identify a best in class range of products to maximize the opportunity and sales revenue with particular manufacturers and product lines.

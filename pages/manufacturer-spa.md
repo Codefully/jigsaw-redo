@@ -4,8 +4,6 @@ permalink: "/manufacturer-spa/"
 layout: page
 ---
 
-### Manufacturer
-
 # SPA Management
 
 Jigsaw Systems offers two complementary SPA services:
