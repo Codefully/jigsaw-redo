@@ -50,6 +50,7 @@ h2 {
 }
 
 header {
+  position: relative;
   padding: 10px 0 5px;
   background: url("{{ '/assets/header-1.jpg' | prepend:site.baseurl }}") 50% 100% no-repeat;
   background-size: cover;
@@ -57,9 +58,9 @@ header {
   .logo img {
     max-width: 100%;
   }
-  > div {
-    max-width: 1200px;
-    margin: 0 auto;
+  .container {
+    // max-width: 1200px;
+    // margin: 0 auto;
     background: rgba(#FFF, .9);
     padding: 50px;
     overflow: hidden;
@@ -67,7 +68,7 @@ header {
   .intro{
     font-weight: 300;
     font-size: 1.5rem;
-    max-width: 700px;
+    // max-width: 700px;
     line-height: 1.4;
     padding-left: 3rem;
     padding-right: 3rem;
