@@ -8,10 +8,9 @@ layout: page
 
 If you’d like any more information please contact us at:
 
-Mailing Address: Jigsaw Systems Inc.
-855 Woodewind Dr, Naperville, IL 60563
+**General Inquiries: admin@jigsawsystemsinc.com**
 
-**Email: admin@jigsawsystemsinc.com**
+**Telephone Mark McGready: (630) 362 6720**
 
-**Telephone: (630) 362 6720**
+**Telephone David Oldfather: (610) 613 8294**
 
