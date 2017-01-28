@@ -12,6 +12,8 @@ Jigsaw Systems offers a pricing optimization service focused on thru-stock busin
 
 We begin by evaluating your current profitability performance with an analysis of your company’s thru-stock business. By modelling your customers and products into  buying patterns Jigsaw is able to identify and scale those transactions that are truly price sensitive compared to those where price is less of a factor.
 
+<h2 class="color-green mt-3">Key metrics</h2>
+
 Using a pricing architecture that is tailored to your business, we can improve a company’s non-negotiated sales profitability (including product sold via SPA contracts and products not sold from stock) from 4%-10%+.
 
 
