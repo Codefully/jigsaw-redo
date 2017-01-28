@@ -6,17 +6,16 @@ layout: page
 
 <!-- ### Distributor -->
 
-# Price Matrix Management
+# Price Optimization
 
-Jigsaw Systems offers a three-phased pricing analytics service  that we call Market Edge, encompassing both SPA contracts, as well as every day, thru-stock business (stock and non-stock).
+Jigsaw Systems offers a pricing optimization service focused on thru-stock business and drop ship sales(stock and non-stock), including Special Pricing Agreement (SPA) contracts. 
 
-We conduct thorough pricing analysis of your company’s thru-stock business. By thoroughly analyzing a customer’s annual volume against their product buying patterns; Jigsaw is able to identify those products that are truly price sensitive; as well as model, test and recommend an effective pricing architecture, improving a company’s thru-stock profitability (including product sold via SPA contracts) from 2.5 to 5%.
+We begin by evaluating your current profitability performance with an analysis of your company’s thru-stock business. By modelling your customers and products into  buying patterns Jigsaw is able to identify and scale those transactions that are truly price sensitive compared to those where price is less of a factor.
 
-<h2 class="color-green mt-3">Impact and Results</h2>
+Using a pricing architecture that is tailored to your business, we can improve a company’s non-negotiated sales profitability (including product sold via SPA contracts and products not sold from stock) from 4%-10%+.
 
-Jigsaws’ Profit Builder Module has generated gross margin improvements ranging from 200 – 400 basis points (2 – 4%) on thru stock sales.
 
-Though the price analysis web tool is stand alone, it also works in conjunction with our SPA analytics service, combined the integrated measurement platform enables a distributor to quickly and accurately measure the resultant profitability improvements against the SPA contract and thru-stock pricing baselines that existed before the new pricing models were adopted.
+Part of our offering is a price analysis web tool is stand alone, allowing clients to monitor and  measure the resultant profitability improvements against the SPA contract and thru-stock pricing baselines that existed before the new pricing models were adopted. Our customized pricing system will provide a new pricing culture focused on making wise price margin decisions that truly reflect the needs of your marketplace.
 
 <div class="row">
   <div class="col-md-6">
