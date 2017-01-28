@@ -6,7 +6,9 @@ layout: page
 
 # SPA Analytics
 
-Our SPA Control Module enables a distributor to monitor the performance of their SPA contracts and the effectiveness of the pricing strategy against the sales performance of the account. Distributors are able to review the revenue and profitability generated for each of their manufacturer’s SPA contracts.
+Typically SPA contracts today take a wide approach in order to avoid complex administration. As a result customers a targeted with wide and deep discounts that do not reflect their true pricing concerns. As a result manufacturers and distributors both decrease their profit levels unnecessarily, rather than maintaining a competitive edge where it's required to secure a customers business yet ensuring a profitable long term relationship. 
+
+Our SPA Control Module enables a distributor to monitor the performance of their SPA contracts and the effectiveness of the current pricing strategy. Distributors are able to analyze the revenue and profitability levels for each of their manufacturer’s SPA contracts.
 
 <h2 class="color-orange mt-2">Common SPA contact issues</h2>
 
