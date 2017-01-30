@@ -4,7 +4,7 @@ permalink: "/contact-us/"
 layout: page
 ---
 
-### Contact Us
+# Contact Us
 
 If you’d like any more information please contact us at:
 
@@ -13,4 +13,3 @@ If you’d like any more information please contact us at:
 **Telephone Mark McGready: (630) 362 6720**
 
 **Telephone David Oldfather: (610) 613 8294**
-

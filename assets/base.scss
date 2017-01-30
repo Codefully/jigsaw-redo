@@ -1,7 +1,9 @@
 ---
 ---
 
-@import url('//fonts.googleapis.com/css?family=Roboto:100,300,400,900');
+// @import url('//fonts.googleapis.com/css?family=Roboto:100,300,400,900');
+@import url('//fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('//fonts.googleapis.com/css?family=Francois+One');
 // @import 'nav';
 @import 'bootstrap/bootstrap';
 
@@ -27,10 +29,45 @@ $text: #404040;
 }
 
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   line-height: 1.5;
   background: #EEE;
   color: $text;
+}
+
+body.home {
+  background: url("/assets/header-4.jpg") 50% 50% fixed;
+  background-size: cover;
+  header {
+    background: none;
+    padding-bottom: 0;
+    .container {
+      background: none;
+    }
+    .intro {
+      margin-top: 50px;
+      font-size: 2rem;
+      line-height: 1.6;
+    }
+  }
+  main {
+    // background: rgba(#FFF, .9);
+    background: none;
+  }
+  footer .container {
+    background: none;
+  }
+  &::after {
+    content: "";
+    display: block;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(#FFF, .85);
+    z-index: -1;
+  }
 }
 
 a {
@@ -42,7 +79,9 @@ a {
 }
 
 h1 {
-  font-size: 2rem;
+  font-family: 'Francois One', sans-serif;
+  font-size: 2.5rem;
+  margin-bottom: 30px;
 }
 
 h2 {
@@ -52,7 +91,7 @@ h2 {
 header {
   position: relative;
   padding: 10px 0 5px;
-  background: url("{{ '/assets/header-1.jpg' | prepend:site.baseurl }}") 50% 100% no-repeat;
+  background: url("{{ '/assets/header-2.jpg' | prepend:site.baseurl }}") 50% 100% no-repeat;
   background-size: cover;
   overflow: hidden;
   .logo img {
@@ -91,6 +130,10 @@ header {
 //   }
 }
 
+.navbar-light .navbar-nav .nav-link {
+  color: $text;
+}
+
 main {
   background: #FFF;
   // max-width: 1200px;
@@ -99,11 +142,12 @@ main {
   // overflow: hidden;
   .card {
     border: 0;
+    background: none;
     // width: 50%;
     // float: left;
     // display: inline-block;
     .icon {
-      width: 160px;
+      width: 120px;
       display: block;
       margin: 0 auto;
       border-radius: 50%;
@@ -116,8 +160,9 @@ main {
     margin: 0 15px;
   }
   .card-title {
+    font-family: 'Francois One', sans-serif;
+    // font-weight: 100;
     font-size: 2.3rem;
-    font-weight: 100;
     margin-bottom: 20px;
     margin-top: 20px;
     text-align: center;
@@ -129,11 +174,13 @@ main {
     li {
       margin: 0;
       a {
+        font-size: 1.3rem;
         display: block;
-        padding: 10px 30px;
-        background: $lightgray;
+        padding: 15px 30px;
+        // background: $text;
+        border: 1px $text solid;
         color: $text;
-        margin-bottom: 2px;
+        margin-bottom: 5px;
         border-radius: 4px;
         transition: all .1s linear;
         &:hover {
@@ -160,6 +207,9 @@ footer {
   .container {
     background: #FFF;
     padding: 150px 0 50px;
+  }
+  a.btn-link {
+    color: $text;
   }
   // max-width: 1200px;
   // margin: 0 auto;

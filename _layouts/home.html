@@ -3,10 +3,19 @@
   <head>
     {% include head.html %}
   </head>
-  <body>
-    {% include header.html %}
+  <body class="home">
+    <header>
+      <div class="container text-xs-center">
+        <a class="logo mx-auto" href='{{ "/" | prepend: site.baseurl }}'>
+          <img src='{{ "/assets/jigsaw-logo-2.png" | prepend:site.baseurl }}' alt="Jigsaw Systems Inc">
+        </a>
+        <div class="intro">
+          {% include_relative pages/home.md %}
+        </div>
+      </div>
+    </header>
     <main class="container">
-      <div class="row pt-3">
+      <div class="row">
         <div class="col-md-6">
           {% include card1.html %}
         </div>
