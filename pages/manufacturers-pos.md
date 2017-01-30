@@ -1,6 +1,6 @@
 ---
 title: Manufacturer Point of Sale
-permalink: "/manufacturer-pos/"
+permalink: "/manufacturers/pos/"
 layout: page
 ---
 

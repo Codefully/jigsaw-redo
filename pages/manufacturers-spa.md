@@ -1,6 +1,6 @@
 ---
 title: Manufacturer SPA
-permalink: "/manufacturer-spa/"
+permalink: "/manufacturers/spa/"
 layout: page
 ---
 

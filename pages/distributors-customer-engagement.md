@@ -1,6 +1,6 @@
 ---
-title: Distributor Inventory
-permalink: "/distributor-inventory/"
+title: Customer Engagement
+permalink: "/distributors/customer-engagement/"
 layout: page
 ---
 

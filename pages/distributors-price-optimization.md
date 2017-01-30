@@ -1,6 +1,6 @@
 ---
-title: Distributor Price Margin
-permalink: "/distributor-price-margin/"
+title: Distributor Price Optimization
+permalink: "/distributors/price-optimization/"
 layout: page
 ---
 
@@ -8,7 +8,7 @@ layout: page
 
 # Price Optimization
 
-Jigsaw Systems offers a pricing optimization service focused on thru-stock business and drop ship sales(stock and non-stock), including Special Pricing Agreement (SPA) contracts. 
+Jigsaw Systems offers a pricing optimization service focused on thru-stock business and drop ship sales(stock and non-stock), including Special Pricing Agreement (SPA) contracts.
 
 We begin by evaluating your current profitability performance with an analysis of your company’s thru-stock business. By modelling your customers and products into  buying patterns Jigsaw is able to identify and scale those transactions that are truly price sensitive compared to those where price is less of a factor.
 
