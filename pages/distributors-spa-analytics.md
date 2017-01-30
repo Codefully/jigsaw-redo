@@ -6,9 +6,9 @@ layout: page
 
 # SPA Analytics
 
-Typically SPA contracts today take a wide approach in order to avoid complex administration. As a result customers a targeted with wide and deep discounts that do not reflect their true pricing concerns. As a result manufacturers and distributors both decrease their profit levels unnecessarily, rather than maintaining a competitive edge where it's required to secure a customers business yet ensuring a profitable long term relationship.
+Typically SPA contracts take a wide approach in order to avoid complex administration. Customers are offered wide and deep discounts that do not target their true pricing concerns. As a result manufacturers and distributors both decrease their profit levels unnecessarily, rather than selectively maintaining a competitive edge where required to secure a customers business yet ensuring a profitable long term relationship.
 
-Our SPA Control Module enables a distributor to monitor the performance of their SPA contracts and the effectiveness of the current pricing strategy. Distributors are able to analyze the revenue and profitability levels for each of their manufacturer’s SPA contracts.
+Our SPA Control Module enables a distributor to monitor the performance of their SPA contracts and the effectiveness of the current pricing strategy. 
 
 <h2 class="color-orange mt-2">Common SPA contact issues</h2>
 
@@ -16,6 +16,8 @@ Our SPA Control Module enables a distributor to monitor the performance of their
 - Little to no strategic pricing in place for high volume and/or low volume items
 - Little to no differentiation between large and small customers
 - No customer segmentation
+- No proactive management of the contract
+- Discount opportunities not relayed to customers
 
 <div class="row">
   <div class="col-md-4">
@@ -34,10 +36,8 @@ Our SPA Control Module enables a distributor to monitor the performance of their
 
 <h2 class="color-green mt-2">Impact and Results</h2>
 
-Jigsaws’ SPA Control Module has generated gross margin improvements ranging from 300 – 600 basis points (3 – 6%) on SPA sales.
+Our SPA Control Module has generated gross margin improvements ranging from 4%-10% on SPA sales.
 
-To get started in more effectively managing your company’s profitability, we suggest a first or initial step utilizing our SPA analytics service.
+To get started in more effectively managing your company’s profitability, we suggest a first or initial step utilizing our SPA analytics service. We analyze each of a distributor’s SPA contracts against several key measures, making recommendations that will measurably improve both the effectiveness and the profitability of each SPA contract.
 
-We analyzes each of a distributor’s SPA contracts against 7 key measures, making recommendations that will measurably improve both the effectiveness and the profitability of each SPA contract.
-
-For increased visibility and through Jigsaw’s web-based measurement platform, distributors are able to easily monitor and measure profitability improvements at the SPA contract level, as well as at the customer and product pricing levels.
+Increased visibility is available through our web-based reporting platform, creating a ongoing culture that monitors and measures profitability on SPA contracts.
