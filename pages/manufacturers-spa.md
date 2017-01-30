@@ -14,13 +14,13 @@ THe biggest challenge with SPA's is simply identifying the business opportunity,
 
 In addition the platform facilitates the renegotiation and modification of contracts so they can change as business conditions change. This allows for a more responsive business environment, diminishing the loss of SPA customers and allowing for expanding sales under existing contracts. 
 
-<h2 class="color-greenmt-2">Rebate Claiming and Auditing</h2>
+<h2 class="color-green mt-2">Rebate Claiming and Auditing</h2>
 
 There are two methods to calculate the rebate due a distributor. Cost of replenishment calculates the cost to replace the item in their inventory at their current pricing levels, and is the most common method in the industry today. Cost of acquisition links the rebate claim to a stock order placed by the distributor to reflect their true initial investment in the product. 
 
 Jigsaw facilitates both processes. In doing so Jigsaw can eliminate many of the mispayments that exist for most manufacturers today, and remove the need for distributor deductions. All claims are audited in advance, and distributors can identify claims that will be rejected or calculated at different rates in advance of their submission. The administration required to process rebates can be reduced by 80%+.
 
-<h2 class="color-bluemt-2">Sales and Profitability Analysis</h2>
+<h2 class="color-blue mt-2">Sales and Profitability Analysis</h2>
 
 Ultimately SPA's are about pricing discounts made in the hopes that they are wise investments. However, with limited infrastructure contracts can be mis-managed or not managed at all. As a result many manufacturers find themselves equipped with thousands of contracts and no assurance that all those discounts are necessary.
 
