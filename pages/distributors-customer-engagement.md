@@ -4,16 +4,18 @@ permalink: "/distributors/customer-engagement/"
 layout: page
 ---
 
-# Stock Advantage (Inventory)
+# Driving Customer Engagement
 
-Our Stock Advantage Module enables a distributor to monitor the behaviors and operational costs of their stock ordering process. The system identifies where distributors are incurring unnecessary operational costs due to the behaviors encouraged within their own stock replenishment platforms.  In addition this module can identify a best in class range of products to maximize the opportunity and sales revenue with particular manufacturers and product lines.
+With limited resources available, it can be harder than ever to stay engaged with your customer base. While inside and outside sales can focus on their target accounts, the vast majority of your accounts may go without any personal engagement with your business for long periods of time. And increasingly customers do not have the same availability for relationship building as they once did. 
 
-The module highlights key inefficient behaviors that may otherwise go unnoticed:
+<h2 class="color-orange mt-2">Fertile Ground</h2>
 
-1.  Ordering the same item more frequently than necessary
-2.  Not supporting an appropriately diverse range of products
-3.  Inconsistent unable to be fulfilled from stock
-4.  Unnecessary product transfers and material handling
-5.  Items that should be sold off or returned to manufacturers
+While you may find that 80% of your revenues rests with 20% of your customers, that remaining smaller accounts represent your future. They are your first place to grow sales and expand your operations. It's rare that a distributor can get 100% of a customers purchases, so moving more of their wallet share to your business is an effective and affordable way to increase market share. 
 
-Our Stock Advantage Module has generated revenue improvements ranging from 300 – 1000 basis points (3 – 10%) on stock sales.
+There are several methods at your disposal to engage with your expanded customer base: product gap analysis, access to reporting, developing scorecards and key measures, telemarketing, incentives and rewards, new product introductions and so on. Each method however requires a common foundation - a deep understanding of the data behind your customers purchase patterns and a methodology to engage them in a cost effective manner. 
+
+<h2 class="color-green mt-2">New age of communications</h2>
+
+Jigsaw's customer extranet is one of the first in the Electrical Industry that allows you to harness the power of the internet. Beyond offering e-commerce alone, now you can market, promote and educate your customer base to the potential they can reach in working with your organization. Learn more about your customers and their needs, and in turn help them understand all the products, services and support your can provide. Easily launch tailored customer incentives, gain access to incitement reporting and analysis, and measure the engagement levels of your customers. 
+
+With our tools distributors can gain a huge advantage over their competitors in the marketplace. Our strongest client generates over $100 million in new revenues annually utilizing our system. What could we do for your organization?
