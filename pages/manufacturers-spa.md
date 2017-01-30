@@ -22,4 +22,8 @@ Jigsaw facilitates both processes. In doing so Jigsaw can eliminate many of the 
 
 <h2 class="color-bluemt-2">Sales and Profitability Analysis</h2>
 
+Ultimately SPA's are about pricing discounts made in the hopes that they are wise investments. However, with limited infrastructure contracts can be mis-managed or not managed at all. As a result many manufacturers find themselves equipped with thousands of contracts and no assurance that all those discounts are necessary.
 
+Jigsaw can review your contracts and identify exactly where the contracts are strong and where they are weak. We can pinpoint unnecessary discounting that has come about as a result of good intentions but poor management. And ultimately Jigsaw can both recover unnecessary discounting and create an environment for ongoing proactive SPA management. 
+
+Consider your total rebate annual liabilities. Now consider reducing that liability by 10%-20% without losing any sales revenue. That's the power of the Jigsaw System. 
