@@ -14,7 +14,7 @@ THe biggest challenge with SPA's is simply identifying the business opportunity,
 
 In addition the platform facilitates the renegotiation and modification of contracts so they can change as business conditions change. This allows for a more responsive business environment, diminishing the loss of SPA customers and allowing for expanding sales under existing contracts. 
 
-<h2 class="color-green mt-2">Rebate Claiming and Auditing</h2>
+<h2 class="color-green">Rebate Claiming and Auditing</h2>
 
 There are two methods to calculate the rebate due a distributor. Cost of replenishment calculates the cost to replace the item in their inventory at their current pricing levels, and is the most common method in the industry today. Cost of acquisition links the rebate claim to a stock order placed by the distributor to reflect their true initial investment in the product. 
 
