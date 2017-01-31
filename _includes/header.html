@@ -11,8 +11,8 @@
       <div class="col-md-9 p-0">
         {% include nav.html %}
         <div class="intro">
-          Jigsaw Systems Inc specializes on data process improvement and analytics,
-          focusing on manufacturers and distributors the Electrical Engineering industry.
+          {% assign intro = site.partials | where:"title", "home-intro"  | first %}
+          {{ intro.content }}
         </div>
       </div>
     </div>
