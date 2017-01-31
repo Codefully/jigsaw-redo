@@ -20,7 +20,7 @@ The module highlights key inefficient behaviors that may otherwise go unnoticed:
 4.  Unnecessary product transfers and material handling
 5.  Items that should be sold off or returned to manufacturers
 
-<h2 class="color-orange mt-2">A proactive inventory</h2>
+<h2 class="color-orange mt-3 mb-1">A proactive inventory</h2>
 
 Current inventory systems are reactive - triggered by sales and demand for customers. This means in every case your customers have to put up with disruptions in their supply until your inventory system catches up. What if you could anticipate their needs? Or understand potential hidden in the product lines you're currently selling?
 

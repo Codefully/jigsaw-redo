@@ -8,9 +8,9 @@ layout: page
 
 Typically SPA contracts take a wide approach in order to avoid complex administration. Customers are offered wide and deep discounts that do not target their true pricing concerns. As a result manufacturers and distributors both decrease their profit levels unnecessarily, rather than selectively maintaining a competitive edge where required to secure a customers business yet ensuring a profitable long term relationship.
 
-Our SPA Control Module enables a distributor to monitor the performance of their SPA contracts and the effectiveness of the current pricing strategy. 
+Our SPA Control Module enables a distributor to monitor the performance of their SPA contracts and the effectiveness of the current pricing strategy.
 
-<h2 class="color-orange mt-2">Common SPA contact issues</h2>
+<h2 class="color-orange mt-3 mb-1">Common SPA contact issues</h2>
 
 - Too many items discounted on the contract
 - Little to no strategic pricing in place for high volume and/or low volume items
@@ -21,20 +21,20 @@ Our SPA Control Module enables a distributor to monitor the performance of their
 
 <div class="row">
   <div class="col-md-4">
-    <h2 class="color-blue text-xs-center mb-0 mt-2">Review Contract Performance</h2>
+    <h2 class="color-blue text-xs-center mb-0 mt-3">Review Contract Performance</h2>
     <img src="/uploads/spa-analytics-1.png" class="mt-1" alt="Review Contract Performance">
   </div>
   <div class="col-md-4">
-    <h2 class="color-blue text-xs-center mb-0 mt-2">Focus on areas of inactivity</h2>
+    <h2 class="color-blue text-xs-center mb-0 mt-3">Focus on areas of inactivity</h2>
     <img src="/uploads/spa-analytics-2.png" class="mt-1" alt="Focus on areas of inactivity">
   </div>
   <div class="col-md-4">
-    <h2 class="color-blue text-xs-center mb-0 mt-2">Identify sources of Price Erosion</h2>
+    <h2 class="color-blue text-xs-center mb-0 mt-3">Identify sources of Price Erosion</h2>
     <img src="/uploads/spa-analytics-3.png" class="mt-1" alt="Identify sources of Price Erosion">
   </div>
 </div>
 
-<h2 class="color-green mt-2">Impact and Results</h2>
+<h2 class="color-green mt-3 mb-1">Impact and Results</h2>
 
 Our SPA Control Module has generated gross margin improvements ranging from 4%-10% on SPA sales.
 
