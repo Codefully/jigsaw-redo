@@ -14,7 +14,7 @@ $lightgray: rgba($gray, .5);
 $blue: #0F8ACB;
 $orange: #F15B2B;
 $text: #404040;
-
+$bg: rgba(#FFF, .8);
 
 .color-blue {
   color: $blue;
@@ -29,7 +29,7 @@ $text: #404040;
 }
 
 body {
-  background: url("/assets/bg-2.jpg") 50% 100% fixed;
+  background: url("/assets/bg-2.jpg") 50% 100% fixed #ced3d3;
   background-size: cover;
   font-family: 'Open Sans', sans-serif;
   line-height: 1.5;
@@ -38,13 +38,14 @@ body {
 }
 
 body.home {
-  background: url("/assets/arrows.svg") 50% 0 fixed;
+  background: url("/assets/arrows.svg") 50% 0 fixed #ced3d3;
   background-size: cover;
   header {
-    background: none;
+    // background: none;
     padding-bottom: 0;
     .container {
-      background: none;
+      // background: none;
+      // background: $bg;
     }
     .intro {
       margin-top: 50px;
@@ -53,24 +54,27 @@ body.home {
     }
   }
   main {
-    // background: rgba(#FFF, .9);
-    background: none;
+    background: $bg;
+    // background: none;
   }
   footer .container {
-    background: none;
+    // background: none;
+    background: $bg;
   }
-  &::after {
-    content: "";
-    display: block;
-    position: fixed;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    background: rgba(#FFF, .85);
-    z-index: -1;
-  }
+  // &::after {
+  //   content: "";
+  //   display: block;
+  //   position: fixed;
+  //   top: 0;
+  //   bottom: 0;
+  //   left: 0;
+  //   right: 0;
+  //   background: rgba(#FFF, .85);
+  //   z-index: -1;
+  // }
   .outro {
+    max-width: 800px;
+    margin: 0 auto;
     font-size: 1.2rem;
     line-height: 1.6;
   }
@@ -97,21 +101,22 @@ h2 {
 header {
   position: relative;
   padding: 10px 0;
+  max-width: 1440px;
   margin: 0 auto;
   // background: url("{{ '/assets/header-inner.jpg' | prepend:site.baseurl }}") 50% 0 no-repeat;
   // background-size: cover;
   overflow: hidden;
+  background: $bg;
   .logo img {
     max-width: 100%;
   }
   .container {
-    // max-width: 1200px;
-    // margin: 0 auto;
-    background: rgba(#FFF, .9);
-    padding: 50px 250px;
+    margin: 0 auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
     overflow: hidden;
     width: auto !important;
-    max-width: 1600px !important;
+    max-width: 960px !important;
   }
   .intro{
     font-weight: 300;
@@ -139,20 +144,34 @@ header {
 //   }
 }
 
-.navbar-light .navbar-nav .nav-link {
-  color: $text;
+.navbar-light .navbar-nav {
+  .nav-item {
+    margin-left: 1.4rem;
+  }
+  .nav-link {
+    color: $text;
+  }
 }
 
 main {
-  background: rgba(#FFF, .9);
-  padding: 50px 250px !important;
+  background: $bg;
+  padding-top: 50px;
+  padding-bottom: 50px;
   width: auto !important;
-  max-width: 1600px !important;
+  max-width: 1440px !important;
   // margin: 0 auto;
   // overflow: hidden;
+  .content {
+    max-width: 960px !important;
+    margin: 0 auto;
+    img {
+      max-width: 100%;
+    }
+  }
   .card {
     border: 0;
     background: none;
+    // background: $bg;
     // width: 50%;
     // float: left;
     // display: inline-block;
@@ -172,7 +191,7 @@ main {
   .card-title {
     font-family: 'Francois One', sans-serif;
     // font-weight: 100;
-    font-size: 2.3rem;
+    font-size: 2rem;
     margin-bottom: 20px;
     margin-top: 20px;
     text-align: center;
@@ -188,6 +207,7 @@ main {
         display: block;
         padding: 15px 30px;
         // background: $text;
+        // background: $bg;
         border: 1px $text solid;
         color: $text;
         margin-bottom: 5px;
@@ -214,11 +234,12 @@ main {
 }
 
 footer {
+  padding-bottom: 10px;
   .container {
-    background: rgba(#FFF, .9);
-    padding: 150px 0;
+    background: $bg;
+    padding: 150px 0 100px;
     width: auto !important;
-    max-width: 1600px !important;
+    max-width: 1440px !important;
   }
   a.btn-link {
     color: $text;

@@ -16,17 +16,19 @@
       </div>
     </header>
     <main class="container">
-      <div class="row">
-        <div class="col-md-6">
-          {% include card1.html %}
+      <div class="content">
+        <div class="row">
+          <div class="col-md-6">
+            {% include card1.html %}
+          </div>
+          <div class="col-md-6">
+            {% include card2.html %}
+          </div>
         </div>
-        <div class="col-md-6">
-          {% include card2.html %}
+        <div class="outro text-xs-center pt-3">
+          {% assign main = site.partials | where:"title", "home-main"  | first %}
+          {{ main.content }}
         </div>
-      </div>
-      <div class="outro text-xs-center pt-3">
-        {% assign main = site.partials | where:"title", "home-main"  | first %}
-        {{ main.content }}
       </div>
     </main>
     {% include footer.html %}

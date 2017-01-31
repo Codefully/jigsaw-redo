@@ -3,17 +3,13 @@
 <header>
   <div class="container">
     <div class="row">
-      <div class="col-md-3 text-xs-center">
+      <div class="col-md-3 p-0">
         <a class="logo mx-auto" href='{{ "/" | prepend: site.baseurl }}'>
           <img src='{{ "/assets/jigsaw-logo-2.png" | prepend:site.baseurl }}' alt="Jigsaw Systems Inc">
         </a>
       </div>
       <div class="col-md-9">
         {% include nav.html %}
-        <div class="intro">
-          {% assign intro = site.partials | where:"title", "home-intro"  | first %}
-          {{ intro.content }}
-        </div>
       </div>
     </div>
   </div>

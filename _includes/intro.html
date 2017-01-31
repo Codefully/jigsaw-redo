@@ -1,0 +1,6 @@
+
+
+<div class="intro">
+  {% assign intro = site.partials | where:"title", "home-intro"  | first %}
+  {{ intro.content }}
+</div>

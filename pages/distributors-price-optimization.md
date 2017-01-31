@@ -20,11 +20,11 @@ Part of our offering is a price analysis web tool, allowing clients to monitor a
 
 <div class="row">
   <div class="col-md-6">
-    <h2 class="color-blue text-xs-center mb-0 mt-2">Margin Gain</h2>
+    <h2 class="color-blue text-xs-center mb-1 mt-2">Margin Gain</h2>
     <img src="/uploads/distributor-pricing-1.jpg" class="mt-0">
   </div>
   <div class="col-md-6">
-    <h2 class="color-blue text-xs-center mb-0 mt-2">Maximize Profit</h2>
+    <h2 class="color-blue text-xs-center mb-1 mt-2">Maximize Profit</h2>
     <img src="/uploads/distributor-pricing-2.jpg" class="mt-0">
   </div>
 </div>
@@ -34,4 +34,4 @@ Part of our offering is a price analysis web tool, allowing clients to monitor a
 
 The first step in working with Jigsaw is a review of your current profitability performance without any long term commitment necessary. We will provide our findings on your current pricing strategy and identify clearly where you may have room for improvement, to the extent that we will be able to target financially how much improvement can be gained for your business. From there we can work together to realize that goal by educating and training your internal team, sales force and other key players. Learn how to ensure your business is priced correctly for your marketplace without the need to give price away unnecessarily.
 
-Utilizing Jigsaw's process will transform the performance of your company and position you to succeed in your marketplaces for years to come. 
+Utilizing Jigsaw's process will transform the performance of your company and position you to succeed in your marketplaces for years to come.
