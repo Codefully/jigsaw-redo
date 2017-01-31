@@ -8,6 +8,10 @@ layout: page
 
 Our Stock Advantage Module enables a distributor to monitor the behaviors and operational costs of their stock ordering process. In identifying where unnecessary operational costs are incurred (due to the behaviors encouraged within their own stock replenishment platforms), significant operational savings can be achieved.  
 
+<div class="bg-white text-xs-center p-3 my-3">
+  <img src="/uploads/inventory-overview.png" alt="Stock Advantage (Inventory)">
+</div>
+
 The module highlights key inefficient behaviors that may otherwise go unnoticed:
 
 1.  Ordering the same item more frequently than necessary
@@ -22,4 +26,4 @@ Current inventory systems are reactive - triggered by sales and demand for custo
 
 Our module can identify a best in class range of products to proactively maximize the opportunity and sales revenue with individual manufacturers and product lines.
 
-Increase sales. Reduce Costs. Eliminate redundant inventory. And set up your business for tomorrow, rather than yesterday. All by using our Stock Advantage system. 
+Increase sales. Reduce Costs. Eliminate redundant inventory. And set up your business for tomorrow, rather than yesterday. All by using our Stock Advantage system.

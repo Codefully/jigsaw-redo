@@ -28,6 +28,10 @@ $bg: rgba(#FFF, .8);
   color: $orange;
 }
 
+.bg-white {
+  background: #FFF;
+}
+
 body {
   background: url("/assets/bg-2.jpg") 50% 100% fixed #ced3d3;
   background-size: cover;

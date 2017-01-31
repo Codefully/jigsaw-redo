@@ -8,7 +8,9 @@ layout: page
 
 Jigsaw’s Inventory system (Stock Advantage) goes well beyond the use of daily sales to generate stocking recommendations. 
 
-![manufacturer-inventory.jpg](/uploads/manufacturer-inventory.jpg)
+<div class="bg-white text-xs-center p-3 my-3">
+  <img src="/uploads/manufacturer-inventory.jpg" alt="Manufacturer Inventory Management">
+</div>
 
 Using a series of mathematical models that have been successfully implemented by world-class manufacturers for the past several years, our system builds a unique profile and generates an individual stocking recommendation for each of your distributors’ locations, taking into account such variables as:
 
