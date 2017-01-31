@@ -29,9 +29,11 @@ $text: #404040;
 }
 
 body {
+  background: url("/assets/bg-2.jpg") 50% 100% fixed;
+  background-size: cover;
   font-family: 'Open Sans', sans-serif;
   line-height: 1.5;
-  background: #EEE;
+  // background: #EEE;
   color: $text;
 }
 
@@ -95,8 +97,9 @@ h2 {
 header {
   position: relative;
   padding: 10px 0;
-  background: url("{{ '/assets/header-2.jpg' | prepend:site.baseurl }}") 50% 100% no-repeat;
-  background-size: cover;
+  margin: 0 auto;
+  // background: url("{{ '/assets/header-inner.jpg' | prepend:site.baseurl }}") 50% 0 no-repeat;
+  // background-size: cover;
   overflow: hidden;
   .logo img {
     max-width: 100%;
@@ -105,8 +108,10 @@ header {
     // max-width: 1200px;
     // margin: 0 auto;
     background: rgba(#FFF, .9);
-    padding: 50px;
+    padding: 50px 250px;
     overflow: hidden;
+    width: auto !important;
+    max-width: 1600px !important;
   }
   .intro{
     font-weight: 300;
@@ -139,9 +144,10 @@ header {
 }
 
 main {
-  background: #FFF;
-  // max-width: 1200px;
-  // padding: 50px 50px 200px;
+  background: rgba(#FFF, .9);
+  padding: 50px 250px !important;
+  width: auto !important;
+  max-width: 1600px !important;
   // margin: 0 auto;
   // overflow: hidden;
   .card {
@@ -209,8 +215,10 @@ main {
 
 footer {
   .container {
-    background: #FFF;
-    padding: 150px 0 50px;
+    background: rgba(#FFF, .9);
+    padding: 150px 0;
+    width: auto !important;
+    max-width: 1600px !important;
   }
   a.btn-link {
     color: $text;
