@@ -19,18 +19,24 @@ Our SPA Control Module enables a distributor to monitor the performance of their
 - No proactive management of the contract
 - Discount opportunities not relayed to customers
 
-<div class="row">
-  <div class="col-md-4">
-    <h2 class="color-blue text-xs-center mb-0 mt-3">Review Contract Performance</h2>
-    <img src="/uploads/spa-analytics-1.png" class="mt-1" alt="Review Contract Performance">
+<div class="card-deck mt-3">
+  <div class="card">
+    <div class="card-block">
+      <h2 class="color-blue">Review Contract Performance</h2>
+    </div>
+    <img class="card-img-bottom" src="/uploads/spa-analytics-1.png" alt="Review Contract Performance">
   </div>
-  <div class="col-md-4">
-    <h2 class="color-blue text-xs-center mb-0 mt-3">Focus on areas of inactivity</h2>
-    <img src="/uploads/spa-analytics-2.png" class="mt-1" alt="Focus on areas of inactivity">
+  <div class="card">
+    <div class="card-block">
+      <h2 class="color-blue">Focus on areas of inactivity</h2>
+    </div>
+    <img class="card-img-bottom" src="/uploads/spa-analytics-2.png" alt="Focus on areas of inactivity">
   </div>
-  <div class="col-md-4">
-    <h2 class="color-blue text-xs-center mb-0 mt-3">Identify sources of Price Erosion</h2>
-    <img src="/uploads/spa-analytics-3.png" class="mt-1" alt="Identify sources of Price Erosion">
+  <div class="card">
+    <div class="card-block">
+      <h2 class="color-blue">Identify sources of Price Erosion</h2>
+    </div>
+    <img class="card-img-bottom" src="/uploads/spa-analytics-3.png" alt="Identify sources of Price Erosion">
   </div>
 </div>
 

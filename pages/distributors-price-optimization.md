@@ -18,14 +18,18 @@ Using a pricing architecture that is tailored to your business, we can improve a
 
 Part of our offering is a price analysis web tool, allowing clients to monitor and  measure the resultant profitability improvements in SPA and thru-stock, comparing pricing baselines against the new pricing models that are adopted. Our process will facilitate a new pricing culture focused on making wise price margin decisions that truly reflect the needs of your marketplace.
 
-<div class="row">
-  <div class="col-md-6">
-    <h2 class="color-blue text-xs-center mb-1 mt-2">Margin Gain</h2>
-    <img src="/uploads/distributor-pricing-1.jpg" class="mt-0">
+<div class="card-deck mt-3">
+  <div class="card pb-1">
+    <div class="card-block">
+      <h2 class="color-blue">Margin Gain</h2>
+    </div>
+    <img class="card-img-bottom" src="/uploads/distributor-pricing-1.jpg" alt="Margin Gain">
   </div>
-  <div class="col-md-6">
-    <h2 class="color-blue text-xs-center mb-1 mt-2">Maximize Profit</h2>
-    <img src="/uploads/distributor-pricing-2.jpg" class="mt-0">
+  <div class="card pb-1">
+    <div class="card-block">
+      <h2 class="color-blue">Maximize Profit</h2>
+    </div>
+    <img class="card-img-bottom" src="/uploads/distributor-pricing-2.jpg" alt="Maximize Profit">
   </div>
 </div>
 
