@@ -152,13 +152,20 @@ header {
 //   }
 }
 
-.navbar-light .navbar-nav {
-  .nav-item {
-    margin-left: 1.4rem;
+.navbar-light {
+  .navbar-nav {
+    .nav-item {
+      margin-left: 1.4rem;
+    }
+    .nav-link {
+      color: $text;
+    }
   }
-  .nav-link {
-    color: $text;
-  }
+  // .navbar-toggler {
+  //   position: fixed;
+  //   top: 0;
+  //   right: 0;
+  // }
 }
 
 main {
