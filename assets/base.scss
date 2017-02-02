@@ -46,10 +46,10 @@ body {
 }
 
 body.home {
-  background: url("/assets/arrows.svg") 50% 0 fixed #ced3d3;
+  background: url("/assets/arrows.svg") 50% 0 fixed #F5F6F6;
   background-size: cover;
   header {
-    // background: none;
+    background: none;
     padding-bottom: 0;
     .container {
       // background: none;
@@ -62,12 +62,12 @@ body.home {
     }
   }
   main {
-    background: $bg;
-    // background: none;
+    // background: $bg;
+    background: none;
   }
   footer .container {
-    // background: none;
-    background: $bg;
+    background: none;
+    // background: $bg;
   }
   // &::after {
   //   content: "";
