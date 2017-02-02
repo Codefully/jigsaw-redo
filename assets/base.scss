@@ -111,9 +111,6 @@ header {
   padding: 10px 0;
   max-width: 1440px;
   margin: 0 auto;
-  // background: url("{{ '/assets/header-inner.jpg' | prepend:site.baseurl }}") 50% 0 no-repeat;
-  // background-size: cover;
-  overflow: hidden;
   background: $bg;
   .logo img {
     max-width: 100%;
@@ -122,7 +119,6 @@ header {
     margin: 0 auto;
     padding-top: 50px;
     padding-bottom: 50px;
-    overflow: hidden;
     width: auto !important;
     max-width: 960px !important;
   }
@@ -152,6 +148,26 @@ header {
 //   }
 }
 
+@include media-breakpoint-down(md) {
+  .navbar-light {
+    position: fixed;
+    top: 10px;
+    right: 0;
+    width: 100%;
+    z-index: 1000;
+    .navbar-nav {
+      background: #FFF;
+      position: absolute;
+      top: 60px;
+      right: 15px;
+      width: 300px;
+      max-width: 88%;
+      border-radius: 4px;
+      padding-right: 20px;
+    }
+  }
+}
+
 .navbar-light {
   .navbar-nav {
     .nav-item {
@@ -161,11 +177,6 @@ header {
       color: $text;
     }
   }
-  // .navbar-toggler {
-  //   position: fixed;
-  //   top: 0;
-  //   right: 0;
-  // }
 }
 
 main {

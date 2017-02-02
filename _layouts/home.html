@@ -1,12 +1,12 @@
 <!doctype html>
-<html lang="">
+<html lang="en">
   <head>
     {% include head.html %}
   </head>
   <body class="home">
     <header>
-      <div class="container text-xs-center">
-        <a class="logo mx-auto" href='{{ "/" | prepend: site.baseurl }}'>
+      <div class="container text-center">
+        <a class="logo" href='{{ "/" | prepend: site.baseurl }}'>
           <img src='{{ "/assets/jigsaw-logo-2.png" | prepend:site.baseurl }}' alt="Jigsaw Systems Inc">
         </a>
         <div class="intro">
@@ -25,16 +25,13 @@
             {% include card2.html %}
           </div>
         </div>
-        <div class="outro text-xs-center pt-3">
+        <div class="outro text-center pt-3">
           {% assign main = site.partials | where:"title", "home-main"  | first %}
           {{ main.content }}
         </div>
       </div>
     </main>
     {% include footer.html %}
-    <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
-    <script src="{{ "/assets/tether.min.js" | prepend:site.baseurl }}"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/js/bootstrap.min.js" integrity="sha384-BLiI7JTZm+JWlgKa0M0kGRpJbF2J8q+qreVrKBC47e3K6BW78kGLrCkeRX6I9RoK" crossorigin="anonymous"></script>
     {% include analytics.html %}
   </body>
 </html>
