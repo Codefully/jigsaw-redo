@@ -212,7 +212,8 @@ main {
     }
   }
   .card-block {
-    margin: 0 15px;
+    // margin: 0 15px;
+    flex-grow: 0 !important;
   }
   .card-title {
     font-family: 'Francois One', sans-serif;

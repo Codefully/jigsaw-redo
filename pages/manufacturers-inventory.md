@@ -8,16 +8,16 @@ layout: page
 
 Jigsaw’s Inventory system (Stock Advantage) goes well beyond the use of daily sales to generate stocking recommendations. 
 
-<div class="card-deck mt-3 mb-3">
-  <div class="card">
+<div class="card-deck">
+  <div class="card my-5 pb-3">
     <div class="card-block">
       <h2 class="color-blue">Key Recommended Inventory Measures</h2>
     </div>
-    <div class="text-xs-center pb-1">
+    <div class="text-center pb-1">
       <img class="card-img-bottom" src="/uploads/manufacturer-inventory-1.jpg" alt="Key Recommended Inventory Measures">
     </div>
   </div>
-  <div class="card">
+  <div class="card my-5">
     <div class="card-block">
       <h2 class="color-blue">Recommended Inventory by Product Group</h2>
     </div>
