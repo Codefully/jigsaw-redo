@@ -6,7 +6,7 @@ layout: page
 
 # Contact Us
 
-If you’d like any more information please contact us at:
+If you’d like more information about our products and services, please contact us at:
 
 **General Inquiries: admin@jigsawsystemsinc.com**
 
