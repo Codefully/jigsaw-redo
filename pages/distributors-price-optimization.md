@@ -38,4 +38,4 @@ One component of our offering is a price analysis web tool, which affords you th
 
 The first step in working with Jigsaw is let us review your current profitability performance without having to incur any long-term obligation. We will provide our findings on your current pricing strategy and clearly identify both where you may have room for improvement, as well as the potential increase in margin dollars that could be realized. From there we will work together to realize that goal by educating and training your internal team, sales force and other key players. Learn how to ensure that your products are priced correctly for your marketplace so that you aren't giving away price unnecessarily.
 
-Utilizing Jigsaw's Price-Optimization process will transform your company's performance, positioning you to succeed in your marketplace for years to come.
+Utilizing Jigsaw's Price-Optimization Service will transform your company's performance, positioning you to succeed in your marketplace for years to come.
