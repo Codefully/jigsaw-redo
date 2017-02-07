@@ -6,24 +6,24 @@ layout: page
 
 # SPA Management
 
-Jigsaw Systems offers a complete solution for the complexity of Special Pricing Agreements. Our system breaks down into three areas: Contract Administration, Rebate Claims and Contract Profitability Measurement & Profitability. Manufacturers can implement each process individually, or all processes together as one holistic solution.
+Jigsaw Systems offers a complete solution for the complexity of Special Pricing Agreements. Our system has three components: Contract Administration, Rebate Claims, and Contract Profitability. Manufacturers can implement each component individually, or use all three components for a more holistic solution.
 
 <h2 class="color-orange mt-5 mb-3">Contract Administration</h2>
 
-THe biggest challenge with SPA's is simply identifying the business opportunity, documenting the pricing discount and ensuring manufacturer and distributor have agreement on the final negotiated contract. Jigsaw offers a first-of-it's-kind solution for the Electrical Industry, one that digitizes the entire process. Accessible by manufactures, distributors and sales reps, contracts can be requested, go through an electronically tracked approval process and be freely accessible so all parties understand what was agreed to.
+The biggest challenges with SPA's are clearly identifying the business opportunity, documenting the pricing discount needed, and ensuring that manufacturer and distributor both agree on the final negotiated contract. Jigsaw offers a first-of-it's-kind solution for the Electrical Industry, one that digitizes the entire process. Accessible by manufacturers, distributors and sales reps alike, SPA contracts can be electronically requested, tracked and approved, allowing all parties to have easy access to what was agreed to.
 
-In addition the platform facilitates the renegotiation and modification of contracts so they can change as business conditions change. This allows for a more responsive business environment, diminishing the loss of SPA customers and allowing for expanding sales under existing contracts.
+The platform also facilitates the renegotiation and modification of contracts so they can be changed as business conditions change. This allows for a more responsive business environment, diminishes the loss of SPA customers and promotes additional sales under existing contracts.
 
 <h2 class="color-green mt-5 mb-3">Rebate Claiming and Auditing</h2>
 
-There are two methods to calculate the rebate due a distributor. Cost of replenishment calculates the cost to replace the item in their inventory at their current pricing levels, and is the most common method in the industry today. Cost of acquisition links the rebate claim to a stock order placed by the distributor to reflect their true initial investment in the product.
+Two methods are currently used to calculate the rebate due a distributor. Cost of replenishment calculates the cost to replace the item in a distributor's inventory at their current pricing levels; it is method used most commonly in the industry today. Cost of acquisition links the rebate claim to a stock order previously placed by the distributor to reflect their true initial investment in the product.
 
-Jigsaw facilitates both processes. In doing so Jigsaw can eliminate many of the mispayments that exist for most manufacturers today, and remove the need for distributor deductions. All claims are audited in advance, and distributors can identify claims that will be rejected or calculated at different rates in advance of their submission. The administration required to process rebates can be reduced by 80%+.
+Jigsaw facilitates both processes. In so doing, Jigsaw is able to eliminate the cause for most of the payment disputes that exist for most manufacturers today, removing the need for distributor deductions. All claims are audited in advance, so distributors can clearly identify claims that will be rejected or calculated at different rates in advance of their submission. Additionally, the administration costs required to process rebates can be reduced by as much as 80%.
 
 <h2 class="color-blue mt-5 mb-3">Sales and Profitability Analysis</h2>
 
-Ultimately SPA's are about pricing discounts made in the hopes that they are wise investments. However, with limited infrastructure contracts can be mis-managed or not managed at all. As a result many manufacturers find themselves equipped with thousands of contracts and no assurance that all those discounts are necessary.
+Ultimately, SPA's are about pricing discounts made in the hopes that they are wise investments. However, with limited infrastructure, contracts can be mis-managed or not managed at all. As a result, many manufacturers find themselves inundated by thousands of contracts, with no assurance that each of the discounts are even necessary.
 
-Jigsaw can review your contracts and identify exactly where the contracts are strong and where they are weak. We can pinpoint unnecessary discounting that has come about as a result of good intentions but poor management. And ultimately Jigsaw can both recover unnecessary discounting and create an environment for ongoing proactive SPA management.
+Jigsaw is able to review your contracts and clearly identify where the contracts are strong and where they are weak. We can pinpoint unnecessary discounting that was offered with the best of intentions, and sustained through poor management. Finally, Jigsaw can help you both eliminate unnecessary discounting and create an ongoing environment of proactive SPA management.
 
-Consider your total rebate annual liabilities. Now consider reducing that liability by 10%-20% without losing any sales revenue. That's the power of the Jigsaw System.
+Consider your total rebate annual liabilities. Now consider reducing that liability by 10%-20% without losing any sales revenue. That's the power of Jigsaw Systems.
