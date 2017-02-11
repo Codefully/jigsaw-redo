@@ -22,8 +22,8 @@ The module identifies key inefficient behaviors that may otherwise go unnoticed:
 
 <h2 class="color-orange mt-5 mb-3">A proactive inventory</h2>
 
-Current inventory systems are basically reactive--triggered by sales and customer demand. This means that your customers are forced to put up with disruptions in their supply until your inventory system catches up. But what if you could predicatively anticipate their needs? Or understand the potential hidden in the product lines you're currently selling?
+Current inventory systems are basically reactive--triggered by sales and customer demand. This means that your customers are forced to put up with disruptions in their supply until your inventory system catches up. But what if you could accurately predict their needs? Or understand the potential hidden in the product lines you're currently selling?
 
-Our module can identify a best-in-class range of products to proactively maximize sales and revenue opportunities with individual manufacturers and product lines.
+By analyzing your business to arrive at a best-in-class profile, our module can help you identify the breadth and depth of products needed to proactively maximize sales and revenue opportunities with individual manufacturers and product lines.
 
 Increase sales. Reduce Costs. Eliminate redundant inventory. And set up your business for tomorrow, rather than yesterday. All by using our Stock Advantage system.
