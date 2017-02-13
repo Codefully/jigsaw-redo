@@ -16,6 +16,6 @@ There are several methods at your disposal to engage with your expanded customer
 
 <h2 class="color-green mt-3 mb-1">New age of communications</h2>
 
-Jigsaw's customer extranet is one of the first in the Electrical Industry that allows you to harness the power of the internet. Beyond offering e-commerce alone, now you can market, promote and educate your customer base on the benefits of working with your organization. Learn more about your customers and their needs, and in turn help them understand all the products, services and support your company can provide. Easily launch targetted customer incentives, gain access to incitement reporting and analysis, and measure the engagement levels of your customers.
+Jigsaw's customer extranet is one of the first in the Electrical Industry that allows you to harness the power of the internet. Beyond offering e-commerce alone, now you can market, promote and educate your customer base on the benefits of working with your organization. Learn more about your customers and their needs, and in turn help them understand all the products, services and support your company can provide. Easily launch targeted customer incentives, gain access to incitement reporting and analysis, and measure the engagement levels of your customers.
 
 With our Customer Engagement Tools you can gain a huge advantage over your competitors in the marketplace. Our strongest client generates over $100 million in new revenues annually simply by utilizing our system. What can we do for your organization?
